@@ -1,0 +1,16 @@
+Fertilizer,N_pct,P2O5_pct,K2O_pct,S_pct,PriceINRPerKg,BagKg,Note
+Urea,46,0,0,0,6,45,Approx. subsidised retail price
+DAP,18,46,0,0,27,50,Approx. subsidised retail price
+SSP,0,16,0,11,9,50,Approx. retail price
+MOP,0,0,60,0,34,50,Approx. retail price
+Zinc Sulphate,0,0,0,0,55,25,21% Zn
+Borax,0,0,0,0,80,10,11% B
+Ferrous Sulphate,0,0,0,0,25,25,19% Fe
+Manganese Sulphate,0,0,0,0,55,25,30.5% Mn
+Copper Sulphate,0,0,0,0,65,25,25% Cu
+Gypsum,0,0,0,18,5,50,23% Ca + 18.5% S
+Elemental Sulphur,0,0,0,90,45,25,90% S; slow acting
+Lime,0,0,0,0,4,50,Agricultural lime
+FYM,0,0,0,0,0.8,1000,Farmyard manure (per tonne bag)
+Vermicompost,0,0,0,0,8,50,Vermicompost
+NPK 19-19-19,19,19,19,0,85,25,Water soluble (foliar/fertigation)

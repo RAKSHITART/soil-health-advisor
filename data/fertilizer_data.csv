@@ -1,0 +1,16 @@
+FertilizerName,Nutrient,Deficiency,CropType,DoseKgHa,ApplicationMethod,Timing,CostINRPerKg,Description,Source
+Urea,Nitrogen,Low,All Crops,120-150,Basal + split topdressing,Pre-sowing + 30 DAS + 60 DAS,6-8,46% N content; most economical N source; broadcast and incorporate,ICAR-NBSS&LUP
+DAP,Phosphorus+Nitrogen,Low,All Crops,100-125,Basal application only,Pre-sowing,28-32,18% N + 46% P2O5; ideal starter; improves early root development,ICAR-NBSS&LUP
+MOP,Potassium,Low,All Crops,60-80,Basal application,Pre-sowing,18-22,60% K2O; improves drought resistance and grain quality,ICAR-NBSS&LUP
+SSP,Phosphorus+Sulphur,Low,All Crops,150-200,Basal application,Pre-sowing,8-11,16% P2O5 + 11% S; cost-effective; best for S-deficient soils,ICAR-NBSS&LUP
+Zinc Sulphate,Zinc,Low,"Rice,Wheat,Maize",25-50,Basal or foliar 0.5%,Pre-sowing or early growth,40-55,21% Zn; critical for alkaline soils; improves grain filling,ICAR-NBSS&LUP
+Borax,Boron,Low,"Cotton,Tomato,Groundnut",10-15,Basal or foliar 0.1-0.2%,Pre-sowing or flowering,65-80,11% B; essential for pollination and fruit set; use carefully,ICAR-NBSS&LUP
+Ferrous Sulphate,Iron,Low,"Rice,Wheat",25-50,Soil or foliar spray 1%,Basal or at chlorosis appearance,20-30,19% Fe; for calcareous soils; soil application less effective,ICAR-NBSS&LUP
+Manganese Sulphate,Manganese,Low,"Soybean,Rice",10-25,Soil or foliar spray 0.5%,Basal or early growth stage,45-60,30.5% Mn; important for photosynthesis; most responsive to foliar,ICAR-NBSS&LUP
+Copper Sulphate,Copper,Low,"Wheat,Rice",5-10,Soil application,Pre-sowing,55-70,25% Cu; soil application every 3-4 seasons; avoid over-application,ICAR-NBSS&LUP
+Gypsum,Sulphur+Calcium,Low,"Groundnut,Wheat",200-400,Soil incorporation,Pre-sowing,4-6,23% Ca + 18.5% S; reclaims sodic soils; improves soil structure,ICAR-NBSS&LUP
+Vermicompost,Organic Carbon,Low,All Crops,2000-4000,Soil incorporation,Pre-sowing or at transplanting,8-12/kg,"Improves soil biology, water retention; slow-release nutrients",Organic Farming Guidelines
+FYM,Organic Carbon,Low,All Crops,5000-10000,Soil incorporation,3-4 weeks before sowing,0.5-1/kg,Improves soil structure; complete nutrition; enhances microbial activity,Organic Farming Guidelines
+Lime,pH,Acidic,All Crops,500-2000,Deep incorporation,2-4 weeks before sowing,3-5,Raises soil pH; adds calcium; neutralises aluminium toxicity,FAO Soil Standards
+Elemental Sulphur,pH,Alkaline,All Crops,200-500,Soil incorporation,Pre-sowing; oxidises slowly,20-30,Lowers soil pH; effective in calcareous soils; slow acting,FAO Soil Standards
+NPK 19-19-19,Nitrogen+Phosphorus+Potassium,Low,Vegetables,100-150,Fertigation or foliar,Split application during crop growth,55-70,Balanced nutrition; water soluble; ideal for vegetable crops,ICAR-NBSS&LUP

@@ -1,0 +1,13 @@
+Parameter,VeryLow_max,Low_max,Optimal_min,Optimal_max,High_min,Excessive_min,Unit,FAO_Reference
+pH,4.5,5.5,6.0,7.5,8.0,8.5,index,FAO Soils Portal (fao.org/soils-portal)
+Nitrogen,80,140,140,280,280,400,kg/ha,FAO Soils Portal (fao.org/soils-portal)
+Phosphorus,10,25,25,55,55,80,kg/ha,FAO Soils Portal (fao.org/soils-portal)
+Potassium,80,110,110,280,280,450,kg/ha,FAO Soils Portal (fao.org/soils-portal)
+OrganicCarbon,0.2,0.5,0.75,1.5,2.0,3.0,%,FAO World Soil Database (HWSD)
+Sulphur,5,10,10,40,40,60,ppm,FAO Soils Portal (fao.org/soils-portal)
+Zinc,0.2,0.6,0.6,3.0,3.0,5.0,ppm,FAO Soils Portal (fao.org/soils-portal)
+Iron,2.0,4.5,4.5,20.0,20.0,30.0,ppm,FAO Soils Portal (fao.org/soils-portal)
+Copper,0.1,0.2,0.2,3.0,3.0,5.0,ppm,FAO Soils Portal (fao.org/soils-portal)
+Manganese,1.0,2.0,2.0,15.0,15.0,25.0,ppm,FAO Soils Portal (fao.org/soils-portal)
+Boron,0.2,0.5,0.5,2.0,2.0,3.0,ppm,FAO Soils Portal (fao.org/soils-portal)
+EC,-1,-1,0,1.0,1.0,3.0,dS/m,FAO Soils Portal (fao.org/soils-portal)
