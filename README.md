@@ -5,6 +5,8 @@ English, Kannada or Hindi.
 
 Built for problem statement PS-A3: AI-Powered Soil Report Interpreter and Fertiliser Recommender.
 
+🚀 **Live Demo:** [Try SoilSense](https://soil-health-advisor-zvq3mcppd6sbuvndmvebdy.streamlit.app/) 
+
 ## The problem
 
 Soil Health Cards give farmers a table of numbers (pH, nitrogen, phosphorus, potassium, micronutrients) that most farmers
